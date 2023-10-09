@@ -1,6 +1,6 @@
 import React, { ReactNode } from "react";
 import Head from "next/head";
-import Header from "./Header";
+import Header from "./header";
 import "@fontsource/forum";
 
 // Component to use as container for all pages

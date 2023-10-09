@@ -1,4 +1,4 @@
-import Layout from "../components/Layout";
+import Layout from "../components/layout";
 import styles from "../styles/resume.module.css";
 
 export default function Resume() {
