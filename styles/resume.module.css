@@ -1,4 +1,30 @@
+.resumeDownload {
+  margin: auto;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 0 8px #375fbb;
+}
 
-.resume {
-    border-radius: 10%;
+.resumeDownload:hover {
+  box-shadow: 0 0 8px #c78242;
+}
+
+.tldr {
+  margin: auto;
+  padding: 5%;
+  width: 1000px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.gifContainer {
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  color: #375fbb;
+}
+.gif {
+  background-color: #87ceeb;
 }

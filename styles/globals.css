@@ -12,21 +12,16 @@ body {
 }
 
 a:hover {
-  color: #005187;
+  color: #c78242;
 }
 
 a {
-  /* color: inherit; */
-  color: #161282;
+  color: #375fbb;
   text-decoration: none;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-}
 body {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 2em;
   min-height: 100vh;
 }
