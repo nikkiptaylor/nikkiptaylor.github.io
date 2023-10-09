@@ -1,13 +1,13 @@
-import Link from 'next/link'
-import Layout from '../components/layout'
+import Link from "next/link";
+import Layout from "../components/Layout";
 
 export default function Projects() {
   return (
-    <Layout>        
+    <Layout>
       <p>
-        Put some projects here. maybe add a similarly styled tab bar, colored when selected. each project is it's own tab
+        Put some projects here. maybe add a similarly styled tab bar, colored
+        when selected. each project is own tab
       </p>
     </Layout>
-       
-  )
+  );
 }

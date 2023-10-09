@@ -1,3 +1,17 @@
+# Nikki Setup
+
+1. Create template - `npx create-next-app@latest`
+2. Install pre-commit - `brew install pre-commit`
+3. Run pre-commit on every commit - `pre-commit install`
+
+To run locally:
+
+```bash
+npm run dev
+```
+
+Then go to http://localhost:3000/nikkiptaylor.github.io.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
