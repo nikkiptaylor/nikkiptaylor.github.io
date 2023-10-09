@@ -1,6 +1,7 @@
 import React, { ReactNode } from "react";
 import Head from "next/head";
 import Header from "./Header";
+import "@fontsource/forum";
 
 // Component to use as container for all pages
 export default function Layout({ children }: { children: ReactNode }) {
