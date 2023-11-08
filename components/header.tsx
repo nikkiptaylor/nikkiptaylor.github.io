@@ -17,7 +17,7 @@ export default function NavBar() {
             <Link href="/projects">projects</Link>
           </li>
           <li>
-            <Link href="/resume">resume</Link>
+            <Link href="./nikki_resume_09_11_2023_eng.pdf">resume</Link>
           </li>
         </ul>
       </div>
