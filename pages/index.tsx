@@ -1,5 +1,4 @@
 import Layout from "@/components/layout";
-import TimelineContent from "@/components/timelineContent";
 import Image from "next/image";
 import styles from "@/styles/about.module.css";
 
