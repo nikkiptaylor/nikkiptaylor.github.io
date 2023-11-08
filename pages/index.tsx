@@ -17,7 +17,7 @@ export default function Home() {
 
         <p className={styles.textbox}>
           Hello, I'm Nikki! Welcome to my in progress website. Very much in
-          progress.{" "}
+          progress.
           <span style={{ color: "red" }}>Please go away if you aren't me.</span>
         </p>
       </div>
