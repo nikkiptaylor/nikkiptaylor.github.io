@@ -18,6 +18,11 @@ Add footer with links to github, linkedin, etc
 Add scroller of boxes for projects/fun things
 Add manual approval for deploy?
 Maybe move the text from resume tab into the first page
+Make about page responsive with image and text
+add icons to about content
+reorg css modules
+Add projects
+Make fun stuff nicer looking and add things
 
 # Stuff from create next app
 
