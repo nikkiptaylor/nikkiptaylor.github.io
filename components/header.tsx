@@ -6,8 +6,7 @@ export default function NavBar() {
     <div className={styles.header}>
       <div className={styles.wrap}>
         <Link href="/" className={styles.title}>
-          {" "}
-          Nikki Taylor{" "}
+          Nikki Taylor
         </Link>
         <ul className={styles.menu}>
           <li>
@@ -17,7 +16,7 @@ export default function NavBar() {
             <Link href="/projects">projects</Link>
           </li>
           <li>
-            <Link href="./nikki_resume_09_11_2023_eng.pdf">resume</Link>
+            <Link href="./Nikki_Taylor_Resume.pdf">resume</Link>
           </li>
         </ul>
       </div>
