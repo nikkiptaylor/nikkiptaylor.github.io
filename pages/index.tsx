@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex justify-center gap-16 flex-col content-center md:flex-row">
           <div className="flex justify-center">
             <Image
-              src="/bw.jpeg"
+              src="/images/bw.jpeg"
               alt="Image of Nikki"
               width={400}
               height={400}

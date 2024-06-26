@@ -10,7 +10,7 @@ export default function Layout({ children }: { children: ReactNode }) {
     <div className="min-h-screen flex flex-col text-lg px-4 md:px-8 lg:px-24 container mx-auto ">
       <Head>
         <title>Nikki</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/favicon.ico" />
       </Head>
 
       <div className="basis-2/12">
