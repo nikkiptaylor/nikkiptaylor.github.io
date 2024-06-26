@@ -20,6 +20,9 @@ Then go to http://localhost:3000
 - Add projects
 - Make fun stuff nicer looking and add things
 - maybe move about into separate page? or reduce stuff? it's a long scroll to footer rn
+- get linter to actually run on precommit
+- when i press reload on project page, you very briefly see a big blue thing
+- add icon for tab (favicon?)
 
 # Stuff from create next app
 

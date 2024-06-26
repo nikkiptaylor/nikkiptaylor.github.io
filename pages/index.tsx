@@ -1,40 +1,47 @@
 import Layout from "@/components/layout";
 import Image from "next/image";
-import styles from "@/styles/about.module.css";
 
 export default function Home() {
   return (
     <Layout>
-      <div className={styles.horizontalContainer}>
+      <div>
         <Image
           src="/bw.jpeg"
           alt="Image of Nikki"
           width={400}
           height={400}
-          className={styles.image}
         ></Image>
-
-        <p className={styles.textbox}>
-          Hello, I'm Nikki! Welcome to my in progress website. Very much in
-          progress.
-          <span style={{ color: "red" }}>Please go away if you aren't me.</span>
-        </p>
+        <div>
+          <p>
+            Hello, I'm Nikki! Welcome to my in progress website. Very much in
+            progress.
+          </p>
+          <p style={{ color: "red" }}>Please go away if you aren't me.</p>
+        </div>
       </div>
 
-      <div className={styles.verticalContainer}>
-        <h2 className={styles.subtitle}>About Me</h2>
+      <div>
+        <h2>About Me</h2>
 
         <ul>
-          <li className={styles.timelineContent}>
-            I'm currently a Machine Learning Engineer at Headspace (since
-            November 2021). I started out building models for clinical
-            applications. Since early 2022, I've been on the ML platform team
-            managing infrastructure and workflows for ML Ops.
+          <li>
+            Currently, I build internal tools for Games User Research at
+            Playstation. I'm an all purpose tech specialist, which has lately
+            meant developing an internal website for managing surveys and
+            playtest data.
           </li>
 
-          <div className={styles.horizontalLine}></div>
+          <hr></hr>
+          <li>
+            Before that, I was a Machine Learning Engineer at Headspace. I
+            started out building models for clinical applications, and later
+            moved into the ML platform team where I was managing infrastructure
+            and workflows for model deployment.
+          </li>
 
-          <li className={styles.timelineContent}>
+          <hr></hr>
+
+          <li>
             Previously, I was a Graduate Student Researcher in ML for
             pharmacogenmics at the Helix Group at Stanford. We collaborated with
             an in vivo research lab and Merck to identify genes and pathways
@@ -43,9 +50,9 @@ export default function Home() {
             Informatics."
           </li>
 
-          <div className={styles.horizontalLine}></div>
+          <hr></hr>
 
-          <li className={styles.timelineContent}>
+          <li>
             Before that, I was an undergrad researcher in a number of labs,
             which served as a great way to explore different areas of science
             and health to find my interests. This included the Mental Health
@@ -55,25 +62,31 @@ export default function Home() {
             and Pain Lab.
           </li>
 
-          <div className={styles.horizontalLine}></div>
+          <hr></hr>
 
-          <li className={styles.timelineContent}>
+          <li>
             I graduated from good old Stanny in 2020. During a worldwide
             pandemic!
           </li>
 
-          <div className={styles.horizontalLine}></div>
+          <hr></hr>
 
-          <li className={styles.timelineContent}>
+          <li>
             I enjoy too many physically active hobbies (climbing, surfing,
             gymnastics, running). I'm trying to become a better home hobbyer
-            (especially with gaming).
+            (aka playing video games).
           </li>
 
-          <div className={styles.horizontalLine}></div>
+          <hr></hr>
 
-          <li className={styles.timelineContent}>
-            I love volunteering and working with people
+          <li>
+            I love volunteering and practicing my emotional support skills! Over
+            the years, this has looked like being a mental health peer
+            counselor, a sexual health peer counselor, co-founding a peer
+            support group for college students, volunteering at a women's
+            shelter, and running the comfort cart for inpatient hospital units.
+            It's always a gift to be able to devote time to being completely
+            present with other people.
           </li>
         </ul>
       </div>

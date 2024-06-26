@@ -7,7 +7,7 @@ import "@fontsource/forum";
 // Component to use as container for all pages
 export default function Layout({ children }: { children: ReactNode }) {
   return (
-    <div>
+    <div className="min-h-screen flex flex-col">
       <Head>
         <title>Nikki</title>
         <link rel="icon" href="/favicon.ico" />
