@@ -10,10 +10,10 @@ export default function YCombinator() {
 
         <section className="text-lg">
           <p>
-            Thank you for visiting - I apologize that it is not a Claude code
-            session. I primarily use my enterprise Codex subscription through
-            work and while I have multiple sessions that I would be proud of, I
-            can't share those sessions. Rather than creating an artificial demo
+            Thank you for visiting - I apologize that this is not a Claude code
+            session. I primarily use my Codex subscription through work and
+            while I have multiple sessions that I would be proud of, I can't
+            share those sessions. Rather than creating an artificial demo
             project just for this application, I thought it would be more useful
             to describe a few real ways I’ve been using Codex recently and what
             I’ve learned from it.

@@ -52,7 +52,7 @@ export default function Home() {
             with an in vivo research lab and Merck to identify genes and
             pathways related to Nonalcoholic Steatohepatitis. I worked half time
             from June 2020-June 2021 while completing my Masters in Biomedical
-            Informatics.
+            Data Science.
           </div>
 
           <hr></hr>
@@ -70,8 +70,7 @@ export default function Home() {
           <hr></hr>
 
           <div className="p-1">
-            I graduated from good old Stanford in 2020. During a worldwide
-            pandemic!
+            I graduated from Stanford in 2020. During a worldwide pandemic!
           </div>
 
           <hr></hr>
@@ -85,7 +84,7 @@ export default function Home() {
           <hr></hr>
 
           <div className="p-1">
-            I love volunteering and practicing my emotional support skills! Over
+            I love volunteering and practicing my emotional support skills. Over
             the years, this has looked like being a mental health peer
             counselor, a sexual health peer counselor, co-founding a peer
             support group for college students, volunteering at a women's

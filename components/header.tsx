@@ -9,7 +9,6 @@ export default function NavBar() {
 
       <div className="flex gap-x-2 justify-center">
         <Link href="/fun-stuff">fun stuff</Link>
-        <Link href="/projects">projects</Link>
         <Link href="./Nikki_Taylor_Resume.pdf">resume</Link>
       </div>
     </div>
