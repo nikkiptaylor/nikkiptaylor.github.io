@@ -17,8 +17,6 @@ export default function Home() {
 
           <div className="flex flex-col justify-center content-center text-center">
             <p className="font-bold">Hello, I'm Nikki!</p>
-            <p>Welcome to my in progress website. Very much in progress.</p>
-            <p style={{ color: "red" }}>Please go away if you aren't me.</p>
           </div>
         </div>
 
@@ -26,10 +24,16 @@ export default function Home() {
           <h1 className="text-center font-bold text-xl">About Me</h1>
 
           <div className="p-1">
-            Currently, I build internal tools for Games User Research at
-            Playstation. I'm an all purpose tech person, which has lately
-            involved developing internal web applications for managing surveys,
-            playtest data, and video streams.
+            Currently, I build internal tools for user research on games in
+            development at Playstation Studios. I'm a full stack developer and
+            tools generalist, which usually entails building internal web
+            applications for managing and analyzing surveys, playtest data, and
+            video streams. I also create scripts, develop documentation, run
+            training sessions, and serve as an analysis and AI process sounding
+            board - whatever general tech or software related stuff is needed,
+            I'm there. Because I'm the only one who works on my tool, I wear all
+            the hats - product manager, user researcher, frontend, backend, QA,
+            devops, oh my!
           </div>
 
           <hr></hr>
@@ -44,11 +48,11 @@ export default function Home() {
 
           <div className="p-1">
             Previously, I was a Graduate Student Researcher in ML for
-            pharmacogenmics at the Helix Group at Stanford. We collaborated with
-            an in vivo research lab and Merck to identify genes and pathways
-            related to Nonalcoholic Steatohepatitis. I worked half time from
-            June 2020-June 2021 while completing my Masters in Biomedical
-            Informatics."
+            pharmacogenomics at the Helix Group at Stanford. We collaborated
+            with an in vivo research lab and Merck to identify genes and
+            pathways related to Nonalcoholic Steatohepatitis. I worked half time
+            from June 2020-June 2021 while completing my Masters in Biomedical
+            Informatics.
           </div>
 
           <hr></hr>
@@ -66,7 +70,7 @@ export default function Home() {
           <hr></hr>
 
           <div className="p-1">
-            I graduated from good old Stanny in 2020. During a worldwide
+            I graduated from good old Stanford in 2020. During a worldwide
             pandemic!
           </div>
 
@@ -74,8 +78,8 @@ export default function Home() {
 
           <div className="p-1">
             I enjoy too many physically active hobbies (climbing, surfing,
-            gymnastics, running). I'm trying to become a better home hobbyer
-            (aka playing video games).
+            gymnastics, running). I'm trying to become a better home hobbyer in
+            case my body ever gives out (playing video games, guitar).
           </div>
 
           <hr></hr>

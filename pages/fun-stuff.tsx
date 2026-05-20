@@ -8,12 +8,13 @@ export default function FunStuff() {
       <div className="flex flex-col items-center gap-5">
         <div>
           <Link href="https://monkeymob.com">
-            My first website (circa 2008)
+            My first website that my dad helped me make when I was 8. Not sure
+            where I was going with it.
           </Link>
         </div>
 
         <div className="flex flex-col content-center items-center bg-blue-100">
-          <div>a gif I made, it's me</div>
+          <div>A gif I drew, it's me</div>
           <Image
             src="/surf-cropped.gif"
             alt="Pixel gif of surfer crashing"
